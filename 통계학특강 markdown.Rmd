@@ -1,0 +1,16 @@
+---
+title: "Practice"
+author: "Dongkyu Kim"
+date: '2020 9 20 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#통계학 특강
+
+x= 1+2
+x
+
